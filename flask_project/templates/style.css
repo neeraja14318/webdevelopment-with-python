@@ -1,0 +1,13 @@
+body{
+	background: #387FBA;
+}
+.container{
+	background: #387FBA;
+	text-align: center;
+	height:50%;
+	width:50%;
+	margin:25%;
+	padding:2%;
+	box-shadow:4px 4px 4px violet;
+	box-sizing: 2%;
+}
